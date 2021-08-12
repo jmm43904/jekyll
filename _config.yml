@@ -1,7 +1,8 @@
 #site settings
 title: Great New Blog Title
-name: Josiah Marquez
-email: your-email@domain.com
+author:
+ name: Josiah Marquez
+ email: your-email@domain.com
 description: "Greate site about Jekyll on GH-Pages."
  
 #build settings
