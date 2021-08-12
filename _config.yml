@@ -1,0 +1,9 @@
+#site settings
+title: Great New Blog Title
+author:
+  name: Josiah Marquez
+  email: josiah.marquez@uga.edu
+ description: "Greate site about Jekyll on GH-Pages."
+ 
+#build settings
+theme: jekyll-theme-slate
