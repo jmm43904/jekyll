@@ -7,3 +7,5 @@ description: "Greate site about Jekyll on GH-Pages."
  
 #build settings
 remote_theme: jekyll/minima
+
+theme: jekyll-theme-hacker
