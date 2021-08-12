@@ -2,7 +2,7 @@
 title: Great New Blog Title
 name: Josiah Marquez
 email: your-email@domain.com
- description: "Greate site about Jekyll on GH-Pages."
+description: "Greate site about Jekyll on GH-Pages."
  
 #build settings
 remote_theme: jekyll/minima
