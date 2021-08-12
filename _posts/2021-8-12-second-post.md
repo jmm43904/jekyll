@@ -5,8 +5,8 @@ tags: second markdown example
 categories: demo
 ---
 
-![alt text whte cat](htpps://upload.wikimedia.org/wkipedia/commons/thumb/b/b1/VAN_CAT.png/480px-VAN_CAT.png)
-(https://photos.google.com/photo/AF1QipNV4UY4VCjc5IFBqvQtADuA0ybm9YMSIJDh-SRc)
+![alt text white cat](https://upload.wikimedia.org/wikipedia/commons/b/b1/VAN_CAT.png)
+
 ------------------------
 
 >Block quote.
