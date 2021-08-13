@@ -17,7 +17,7 @@ This page describes the amazing {{ site.title }} by {{ site.author.name }}.
 
 {% for animal in site.data.animals %}
 {% if animal.size == "large" %}- <strong style="color: {{ animal.color }};">{{ animal.name }}</strong>
-{% else %}-<small>{{ animal.name }}</small>
+{% else %}- <small>{{ animal.name }}</small>
 {% endif %}
 {% endfor %}
 
