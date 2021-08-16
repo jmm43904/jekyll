@@ -1,0 +1,33 @@
+I"õ<p><img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/VAN_CAT.png" alt="alt text white cat" /></p>
+
+<hr />
+
+<blockquote>
+  <p>Block quote.
+Is like this.</p>
+</blockquote>
+
+<p>Tables look like:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>header</th>
+      <th>column 1</th>
+      <th>column 2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>dog</td>
+      <td>3</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>cat</td>
+      <td>4</td>
+      <td>6</td>
+    </tr>
+  </tbody>
+</table>
+:ET

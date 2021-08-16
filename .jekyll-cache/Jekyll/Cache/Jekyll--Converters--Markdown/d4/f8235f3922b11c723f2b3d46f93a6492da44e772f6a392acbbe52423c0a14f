@@ -1,0 +1,23 @@
+I"ç<h2 id="heading-two">Heading two</h2>
+<p><em>Italic</em>
+<strong>Bold</strong>
+<code class="language-plaintext highlighter-rouge">backticks</code></p>
+
+<p>bullet list</p>
+
+<ul>
+  <li>one</li>
+  <li>two</li>
+  <li>three</li>
+</ul>
+
+<p>numbered list</p>
+
+<ol>
+  <li>one</li>
+  <li>two</li>
+  <li>three</li>
+</ol>
+
+<p>Hyperlinks look like this <a href="https://help.github.com/">GitHub Help</a>.</p>
+:ET
